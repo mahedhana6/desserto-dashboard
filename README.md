@@ -62,8 +62,8 @@ An interactive Excel dashboard project for analyzing Arabic dessert product sale
 
 \- `Desserto\_Dashboard.xlsx` → The full interactive Excel file
 
-\- `Screenshots of dashboards
-` 
+\- `Screenshots of dashboards` 
+
 \- `pivot\_tables`, `cleaned\_data`, `source\_data` are included in the workbook
 
 
@@ -77,6 +77,7 @@ An interactive Excel dashboard project for analyzing Arabic dessert product sale
 Project by \*\* Mahed Hana \*\*  
 
 If you'd like to connect, reach out via LinkedIn:: https://www.linkedin.com/in/mahed-hana-181702313/
+
 
 
 
